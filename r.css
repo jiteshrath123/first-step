@@ -1,0 +1,165 @@
+body,html,h1,h2,h3,h4,li,img,p{
+	
+	padding: 0 0 0 0;
+	margin: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+
+}
+body{
+
+	border: 1px solid #000000;
+	width: 1300px;
+	margin: 0 auto 0 auto;
+
+}
+.header{
+	border: 1px solid #000000;
+	margin: 30px 5px 5px 5px;
+	float: left;
+	height: 140px;
+	width: 500px;
+
+	
+}
+.description p{
+	font-size: 15px; 
+	font-family: lato,helvetica,verdana;
+	line-height: 1.5;
+	margin: 20px 0 20px 0;
+
+}
+.nav li{
+	display: inline;
+
+}
+.description img{
+	margin: 10px;
+
+}
+.description .website{
+	height: 300px;
+
+}
+.description .website img{
+	height: 300px;
+	width: 150px;
+}
+.description .mission li{
+	font-size: 15px; 
+	font-family: lato,helvetica,verdana;
+
+}
+.description h1{
+	font-size: 45px;
+	margin: 20px 0px 0px 0;
+	font-family: "Times New Roman",droid-serif;
+	font-weight: normal;
+	text-decoration: underline;
+
+}
+
+}
+h1{
+	font-size: 45px;
+	margin: 20px 0px 0px 0;
+	font-family: "Times New Roman",droid-serif;
+	font-weight: normal;
+	text-decoration: underline;
+}
+main{
+
+}
+.nav{
+	margin: 95px 30px 5px 0px;
+	width: 725px;
+	float: right;
+	height: 75px;
+	font-family: rockwell,coustard,patuaone,geometrcic-sans-serif;
+	font-size: 24px;
+	color: #ff0000;
+	border: 1px solid #000000;
+
+	
+}
+.nav a{
+	margin: 0 0 0 0;
+	padding: 5px 20px 5px 20px;
+	color: #ffffff;
+	border: 1px solid #000000;
+	border-top: 1px solid #000000;
+	border-radius: 10px;
+}
+.main{
+
+
+	border: 1px solid #000000;
+	background-color: hsl(360,10%,76%);
+}
+.description{
+
+
+	border: 1px solid #000000;
+	padding: 10px 10px 10px 30px;
+	margin: 60px 110px 10px 10px;
+	width: 800px;
+	float: right;
+
+}
+.clear{
+	clear: both;
+}
+.description img{
+	float: right;
+}
+
+h2{
+	margin: 0px 0px 10px 0px;
+	font-family: "Times New Roman",droid-serif;
+	font-weight: normal;
+	text-decoration: underline;
+	font-size: 25px;
+		
+
+}
+.vnav{
+
+
+	clear: both;
+	border: 1px solid #000000;
+	width: 200px;
+	font-size: 24px;
+	float: left;
+	text-align: center;
+	margin: 60px 10px 10px 30px;
+	padding: 0 35px 0 0;
+
+
+}
+.vnav li{
+	padding: 5px 10px 5px 10px;
+	border: 1px solid #000000;
+	width: 120px;
+	margin: 10px auto 10px auto;
+	border-radius: 10px;
+
+}
+.vnav a{
+
+}
+.vnav ul{
+	list-style: none;
+}
+
+.clear{
+	clear: both;
+}
+.footer{
+		border: 1px solid #000000;
+		width: 500px;
+		height: 100px;
+		background-color: black;
+
+
+}
